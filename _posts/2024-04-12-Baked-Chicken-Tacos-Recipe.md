@@ -16,7 +16,9 @@ tags:
 author: mranderson
 paginate: true
 ---
+
 ### Ingredientes:
+
 Frango às tiras salteado ou esfiado (temperado com oregaos, piripiri, sal, pimenta)
 Cebola roxa
 Azeite
