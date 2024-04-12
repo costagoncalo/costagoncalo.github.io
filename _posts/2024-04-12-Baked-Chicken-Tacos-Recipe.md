@@ -6,9 +6,9 @@ subtitle: 'Simples, rápido e delicioso com um molhinho picante por cima (VALENT
 description: >-
   Simples, rápido e delicioso com um molhinho picante por cima (VALENTINA).
 image: >-
-  src="/assets/img/uploads/foto_eu.png"
+  https://i.pinimg.com/564x/75/34/ab/7534ab055908a28545f7a4cdde62a144.jpg
 optimized_image: >-
-  src="/assets/img/uploads/foto_eu.png"
+  https://i.pinimg.com/564x/75/34/ab/c_scale,w_380/7534ab055908a28545f7a4cdde62a144.jpg
 category: blog
 tags:
   - welcome
