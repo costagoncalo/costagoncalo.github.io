@@ -19,23 +19,15 @@ paginate: true
 
 ### Ingredientes:
 
-Frango às tiras salteado ou esfiado (temperado com oregaos, piripiri, sal, pimenta)
-
-Cebola roxa
-
-Azeite
-
-Sal
-
-Pimento vermelho/verde/Jalapenos
-
-Natas de culinária
-
-Queijo ralado
-
-Molho tabasco/chipotle
-
-Tortilhas
+Frango às tiras salteado ou esfiado (temperado com oregaos, piripiri, sal, pimenta)  
+Cebola roxa  
+Azeite  
+Sal  
+Pimento vermelho/verde/Jalapenos  
+Natas de culinária  
+Queijo ralado  
+Molho tabasco/chipotle  
+Tortilhas  
 
 ### Procedimento:
 
