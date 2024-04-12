@@ -2,8 +2,8 @@
 layout: page
 menu: false
 date: '2024-04-12'
-title: About
-description: Some description.
+title: Xalo
+description: Who am i?
 permalink: /about/
 ---
 

@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: Xalo
+title: Xalo
+description: Jekflix theme made by
   Thiago Rossener.
 tags:
   - blog
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: costagoncalo0002@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -31,10 +31,10 @@ formspree_form_id: formspree_form_id
 # Remove the item if you don't need it
 github_username: costagoncalo
 facebook_username: goncalo.costa.338863
-twitter_username: twitter_username
+#twitter_username: twitter_username
 instagram_username: goncalo_costa.2000
 linkedin_username: gonçalo-costa-087ab5182
-medium_username: medium_username
+#medium_username: medium_username
 
 
 # Posts Settings
