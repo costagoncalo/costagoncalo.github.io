@@ -6,9 +6,9 @@ subtitle: 'Simples, rápido e delicioso com um molhinho picante por cima (VALENT
 description: >-
   Simples, rápido e delicioso com um molhinho picante por cima (VALENTINA).
 image: >-
-  <img src="_posts/foodie_images/Baked_chicken_tacos_recipe.jpg" style="transform:rotate(90deg);">
+  _posts/foodie_images/Baked_chicken_tacos_recipe.jpg
 optimized_image: >-
-  <img src="_posts/foodie_images/Baked_chicken_tacos_recipe.jpg" style="transform:rotate(90deg);">
+  _posts/foodie_images/Baked_chicken_tacos_recipe.jpg
 category: blog
 tags:
   - welcome
