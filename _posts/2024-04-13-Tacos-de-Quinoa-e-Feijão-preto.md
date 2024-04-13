@@ -13,7 +13,7 @@ category: receita
 tags:
   - refeição
   - veg
-author: Xalo
+author: xalo
 paginate: true
 ---
 

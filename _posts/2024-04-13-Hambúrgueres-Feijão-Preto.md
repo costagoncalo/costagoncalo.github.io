@@ -14,7 +14,7 @@ tags:
   - refeição
   - rápida
   - veg
-author: Xalo
+author: xalo
 paginate: true
 ---
 

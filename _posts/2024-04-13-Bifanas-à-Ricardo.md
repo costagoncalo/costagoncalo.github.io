@@ -13,7 +13,7 @@ category: receita
 tags:
   - refeição
   - marinar com tempo
-author: Xalo
+author: xalo
 paginate: true
 ---
 

@@ -13,7 +13,7 @@ category: receita
 tags:
   - refeição
   - rápida
-author: Xalo
+author: xalo
 paginate: true
 ---
 

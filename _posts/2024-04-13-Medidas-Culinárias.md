@@ -13,7 +13,7 @@ category: Conversões de medidas
 tags:
   - Medidas Culinárias
   - Suporte
-author: Xalo
+author: xalo
 paginate: true
 ---
 

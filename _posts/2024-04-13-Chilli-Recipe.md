@@ -13,7 +13,7 @@ category: receita
 tags:
   - refeição
   - demorado
-author: Xalo
+author: xalo
 paginate: true
 ---
 

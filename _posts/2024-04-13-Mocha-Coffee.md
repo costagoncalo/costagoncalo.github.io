@@ -13,7 +13,7 @@ category: bebida
 tags:
   - bebida quente
   - cozy
-author: Xalo
+author: xalo
 paginate: true
 ---
 
