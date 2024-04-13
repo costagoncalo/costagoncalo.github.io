@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: Collector of recipes
 photo: /assets/img/uploads/foto_eu.png
 name: Xalo
 display_name: Mr. Xalo
