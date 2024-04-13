@@ -13,4 +13,6 @@ permalink: /about/
 
 Olá!  
 O meu nome é Gonçalo Costa, também conhecido por Xalo por entre amigos.
-Comecei este projeto com o objetivo de aprender como funciona um website e como é construído e também para resolver um inconveniente que tenho encontrado no dia a dia: Nunca consigo ter as receitas que mais gosto num único sítio. Este website irá resolver esse problema e ainda permitirá partilhar as minhas receitas preferidas com outras pessoas.
+Comecei este projeto com o objetivo de aprender como funciona um website e como é construído e também para resolver um inconveniente que tenho encontrado no dia a dia: Nunca consigo ter as receitas que mais gosto num único sítio. Este website irá resolver esse problema e ainda permitirá partilhar as minhas receitas preferidas com outras pessoas!
+
+Utilizei como base o Jekflix criado pelo Thiago Rossener.
