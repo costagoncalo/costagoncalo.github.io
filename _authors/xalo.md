@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/foto_eu.png
-name: Xalo
+name: xalo
 display_name: Mr. Xalo
 position: Collector of recipes
 bio: Just a simple guy passionate about food.  
