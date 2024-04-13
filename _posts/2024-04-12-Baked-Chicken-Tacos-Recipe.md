@@ -31,9 +31,9 @@ paginate: true
 
 ### Procedimento:
 
-**1** Estrugido inicial  
-**2** Cozinhar frango às tiras ou esfiado com os legumes  
-**3** <ins>(Opcional)</ins> Fritar as tortilhas  
-**4** Construir os tacos e colocar o queijo ralado por baixo/cima e deixar derreter  
-**5** Servir e bom apetite!  
+**1.** Estrugido inicial  
+**2.** Cozinhar frango às tiras ou esfiado com os legumes  
+**3.** <ins>(Opcional)</ins> Fritar as tortilhas  
+**4.** Construir os tacos e colocar o queijo ralado por baixo/cima e deixar derreter  
+**5.** Servir e bom apetite!  
 
