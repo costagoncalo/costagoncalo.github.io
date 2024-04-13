@@ -1,17 +1,17 @@
 ---
 date: 2024-04-13
 layout: post
-title: Rice paper dumplings
-subtitle: 'Um pouco trabalhoso mas vale muito a pena.'
+title: Medidas Culinárias
+subtitle: 'Um suporte para quando é necessário converter unidades'
 description: >-
-  Um pouco trabalhoso mas vale muito a pena.
+  Um suporte para quando é necessário converter unidades
 image: >-
   https://www.confeiteiradesucesso.com/wp-content/uploads/2019/02/medidas-culinarias.png
 optimized_image: >-
   https://www.confeiteiradesucesso.com/wp-content/uploads/2019/02/medidas-culinarias.png
 category: Conversões de medidas
 tags:
-  - Medidas Culiárias
+  - Medidas Culinárias
   - Suporte
 author: Xalo
 paginate: true
