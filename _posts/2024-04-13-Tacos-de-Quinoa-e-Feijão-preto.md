@@ -15,6 +15,7 @@ tags:
   - veg
 author: xalo
 paginate: true
+comments: true
 ---
 
 **Colocar muito pouco limão senão fica só a saber a limão!**
