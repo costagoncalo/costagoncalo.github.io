@@ -9,11 +9,11 @@ image: >-
   https://i.pinimg.com/564x/75/34/ab/7534ab055908a28545f7a4cdde62a144.jpg
 optimized_image: >-
   https://i.pinimg.com/564x/75/34/ab/7534ab055908a28545f7a4cdde62a144.jpg
-category: blog
+category: receita
 tags:
-  - welcome
-  - blog
-author: mranderson
+  - refeição
+  - rápida
+author: Xalo
 paginate: true
 ---
 
