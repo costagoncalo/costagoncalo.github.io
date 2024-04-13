@@ -17,22 +17,30 @@ author: Xalo
 paginate: true
 ---
 
-Tempero (pelo menos 24 horas):
-Bifanas (espalmadas com uma colher para ficarem fininhas)
-Sal
-Pimentão Doce
-Alho fatias
+### Ingredientes:
+#### Tempero (pelo menos 24 horas):  
+* Bifanas (espalmadas com uma colher para ficarem fininhas)  
+* Sal  
+* Pimentão Doce  
+* Alho fatiado  
 
-Fazer mesmo os bifes
-Azeite
-Cebola cortada em meia lua
-Polpa de tomate
-Cerveja
-Nós moscada
-Pimentas a gosto
-Piri piri
-Jogar com agua/sal/picante
-Encontrar o equilíbrio 
-15 min até molho ficar fixe
-Meter Bifanas 
-Mais 15 min em lume baixo/médio baixo
+#### Restantes:  
+
+* Azeite  
+* 1 cebola cortada em meia lua  
+* Polpa de tomate (quantidade ??)  
+* Cerveja (quantidade ??)  
+* Nós moscada  
+* Pimentas a gosto  
+* Piri piri  
+* Água  
+* Papos secos  
+
+### Descrição:  
+
+**1.** Estrugido típico. Quando a cebola alourar colocar o molho de tomate, cerveja e os restantes condimentos.  
+**2.** Deixar cozinhar em lume brando durante 15 min.  
+**3.** Provar o molho e encontrar o equilíbrio de agua/sal/picante até ficar ao gosto.  
+**4.** Colocar as bifanas.  
+**5.** Deixar cozinhar mais 15 min em lume brando.  
+**6.** Servir nos papos secos e aproveite!  

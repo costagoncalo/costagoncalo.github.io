@@ -13,6 +13,7 @@ category: receita
 tags:
   - refeição
   - veg
+  - marinar com tempo
 author: Xalo
 paginate: true
 ---
