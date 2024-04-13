@@ -5,7 +5,7 @@ title: Gelado Diabetes
 subtitle: 'Gelado docinho e fresquinho para o verão!'
 description: >-
   Gelado docinho e fresquinho para o verão!
-  image: >-
+image: >-
   https://pt.petitchef.com/imgupl/recipe/gelado-de-bolacha--25492p31591.jpg
 optimized_image: >-
   https://pt.petitchef.com/imgupl/recipe/gelado-de-bolacha--25492p31591.jpg
