@@ -2,9 +2,9 @@
 date: 2024-04-13
 layout: post
 title: Chilli
-subtitle: 'Classic chilli'
+subtitle: 'Classic chilli recipe!'
 description: >-
-  Classic chilli
+  Classic chilli recipe!
 image: >-
   https://hips.hearstapps.com/hmg-prod/images/best-ever-beef-chili-index-1677260488.jpg?crop=0.8903083856772774xw:1xh;center,top&resize=1200:*
 optimized_image: >-
