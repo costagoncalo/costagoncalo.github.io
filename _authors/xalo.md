@@ -1,9 +1,9 @@
 ---
-layout: Collector of recipes
+layout: author
 photo: /assets/img/uploads/foto_eu.png
 name: Xalo
 display_name: Mr. Xalo
-position: The Bear
+position: Collector of recipes
 bio: Just a simple guy passionate about food.  
 (And maybe hoarding lots of great recipes)
 github_username: costagoncalo
