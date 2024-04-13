@@ -12,12 +12,12 @@ optimized_image: >-
 category: receita
 tags:
   - refeição
-  - vegan
+  - veg
 author: Xalo
 paginate: true
 ---
 
-### Ingredientes
+### Ingredientes:
 
 * 1 cebola grande  
 * 1 bom fio de azeite  
