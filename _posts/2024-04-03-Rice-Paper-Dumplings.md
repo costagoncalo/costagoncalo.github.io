@@ -13,7 +13,6 @@ category: receita
 tags:
   - refeição
   - veg
-  - demorada
 author: Xalo
 paginate: true
 ---
