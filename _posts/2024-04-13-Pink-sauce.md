@@ -12,7 +12,7 @@ optimized_image: >-
 category: molho
 tags:
   - molho
-  - rápida
+  - rápido
 author: xalo
 paginate: true
 ---
