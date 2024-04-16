@@ -43,7 +43,7 @@ comments: true
 
 **1.** Adicionar o azeite à panela. Quando esta estiver quente, colocar a cebola e adicionar sal. Suar a cebola até esta ficar dourada.  
 **2.** Adicione o alho e as especiarias- pimentão doce, cominhos e piripiri ou pimenta preta(opcional). Adicione a pasta de tomate ou molho de tomate e misture. Cozinhe durante 1-2 minutos.  
-**3.** Juntar a quinoa e deixar tostar durante um minuto e deppois acrescentar a agua. Deixar simmer em lume brando durante 15 minutos.  
+**3.** Juntar a quinoa e deixar tostar durante um minuto e depois acrescentar a agua. Deixar simmer em lume brando durante 15 minutos.  
 **4.** Juntar o feijão preto e deixar mais 5 minutos.  
 **5.** Colocar de lado e deixar arrefecer um bocadinho.  
 **6.** Juntar o bocadinho de limão, espremer e misturar.  

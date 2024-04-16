@@ -34,6 +34,5 @@ comments: true
 
 **1.** Adicionar os abacates a uma tigela e esmagar com um garfo e fazer um puré.  
 **2.** Corte a cebola, pimento e tomates em cubos pequeninos e adicione tudo ao puré de abacate.  
-**3.** Juntar a quinoa e deixar tostar durante um minuto e deppois acrescentar a agua. Deixar simmer em lume brando durante 15 minutos.  
-**4.** Juntar os coentros, o sal, o sumo de lima/limão e encontrar o ponto de equilíbrio entre o ácido e o salgado.  
-**5.** Servir com tortilhas de milho. Bom apetite!  
+**3.** Juntar os coentros, o sal, o sumo de lima/limão e encontrar o ponto de equilíbrio entre o ácido e o salgado.  
+**4.** Servir com tortilhas de milho. Bom apetite!  
