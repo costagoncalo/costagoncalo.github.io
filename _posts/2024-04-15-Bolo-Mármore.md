@@ -16,6 +16,9 @@ author: xalo
 paginate: true
 ---
 
+**Nota: xícara=chávena**  
+**Nota: 1 xícara = 240 ml**  
+
 ### Ingredientes:  
 * 3 xícaras de farinha de trigo  
 * 6 claras  
