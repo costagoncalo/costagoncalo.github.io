@@ -6,9 +6,9 @@ subtitle: 'Simples, rápido e delicioso. Usualmente usado em saladas verdes.'
 description: >-
   Simples, rápido e delicioso. Usualmente usado em saladas verdes.
 image: >-
-  https://mydominicankitchen.com/wp-content/uploads/2017/08/Mayo-Ketchup-Sauce-Smart-Little-Cookie-4-800x1200.jpg
+  https://cdn.casaeculinaria.com/wp-content/uploads/2023/03/05163631/Molho-de-mostarda-e-mel.webp
 optimized_image: >-
-  https://mydominicankitchen.com/wp-content/uploads/2017/08/Mayo-Ketchup-Sauce-Smart-Little-Cookie-4-800x1200.jpg
+  https://cdn.casaeculinaria.com/wp-content/uploads/2023/03/05163631/Molho-de-mostarda-e-mel.webp
 category: molho
 tags:
   - molho
