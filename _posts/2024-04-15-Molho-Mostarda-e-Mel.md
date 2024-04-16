@@ -24,4 +24,4 @@ paginate: true
 
 ### Descrição:  
 
-**1.** Mix everything and serve.
+**1.** Mix everything and serve.  
