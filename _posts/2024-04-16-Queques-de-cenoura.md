@@ -29,7 +29,7 @@ paginate: true
 ### Preparação:  
 **1** Num copo alto juntar o oleo, a cenoura aos bocados, o ovo e a gema. Triturar até estar super cremoso.  
 **2** Juntar à parte a farinha, o açúcar, a canela e o fermento.  
-**3** Misturar e juntar os líquidos. Envolver bem, <ins>sem bater</ins>.  
+**3** Misturar e juntar os líquidos. Envolver bem, **<ins>sem bater</ins>.**  
 **4** Deitar nas formas (colocar arroz cru no fundo para não colar) e levar ao forno preaquecido nos 175º por 15-20 minutos. Depois de cozidos, deixar arrefecer.  
 **5** Colocar as massas em camadas numa forma untada de manteiga e levar ao forno cerca de 40 min a 180 ºC.  
 
