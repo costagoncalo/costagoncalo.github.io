@@ -1,4 +1,4 @@
-### costagoncalo.github.io, a website made from Jekflix
+### Website made from Jekflix
 
 A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
 
