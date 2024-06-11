@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/foto_eu.png
 name: xalo
-display_name: Mr. Xalo
+display_name: Xalo
 position: The One
 bio: Just a simple guy passionate about food. (And hoarding personal favorite recipes)
 github_username: costagoncalo
