@@ -6,9 +6,9 @@ subtitle: 'Para quem não se decide entre ácido e doce.'
 description: >-
   Para quem não se decide entre ácido e doce.
 image: >-
-  _posts/foodie_images/Frango_agridoce.png
+  https://3.bp.blogspot.com/-0OAUUp6Bj6A/T1Nx7b1t3ZI/AAAAAAAAFvc/jb7tHe03aPo/s1600/sweet+and+sour+chicken+recipe.JPG
 optimized_image: >-
-  _posts/foodie_images/Frango_agridoce.png
+  https://3.bp.blogspot.com/-0OAUUp6Bj6A/T1Nx7b1t3ZI/AAAAAAAAFvc/jb7tHe03aPo/s1600/sweet+and+sour+chicken+recipe.JPG
 category: receita
 tags:
   - refeição
@@ -37,7 +37,7 @@ paginate: true
 
 **2.** Misturar bem os ingredientes do molho.
 
-**3.** Saltear o frango frito com o molho numa frigideira.
+**3.** Saltear o frango frito com o molho numa frigideira (Poderão saltear previamente pimentos e acrescentar o molho e o frango posteriormente, se assim o desejarem).
 
 **Opcional.** Servir com sementes de sésamo.
 
