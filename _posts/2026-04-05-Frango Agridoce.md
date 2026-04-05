@@ -2,9 +2,9 @@
 date: 2026-04-05
 layout: post
 title: Frango Agridoce
-subtitle: 'Para quem não se decide entre ácido e doce. Além disso, frango é sempre aquela base...'
+subtitle: 'Para quem não se decide entre ácido e doce.'
 description: >-
-  Para quem não se decide entre ácido e doce. Além disso, frango é sempre aquela base...
+  Para quem não se decide entre ácido e doce.
 image: >-
   _posts/foodie_images/Frango_agridoce.png
 optimized_image: >-
