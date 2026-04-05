@@ -1,7 +1,7 @@
 ---
 date: 2025-04-05
 layout: post
-title: Bolinhos de bacalhau do Chef Jamon
+title: Bolinhos de bacalhau do Jamon
 subtitle: 'Tradicional. Servem de entrada ou até mesmo prato principal.'
 description: >-
     Tradicional. Servem de entrada ou até mesmo prato principal.
