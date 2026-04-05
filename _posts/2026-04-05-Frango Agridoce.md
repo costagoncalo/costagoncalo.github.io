@@ -6,9 +6,9 @@ subtitle: 'Para quem não se decide entre ácido e doce. Além disso, frango é 
 description: >-
   Para quem não se decide entre ácido e doce. Além disso, frango é sempre aquela base...
 image: >-
-  https://lilluna.com/wp-content/uploads/2025/03/buttermilk-waffles-resize-17.jpg
+  _posts/foodie_images/Frango_agridoce.png
 optimized_image: >-
-  https://lilluna.com/wp-content/uploads/2025/03/buttermilk-waffles-resize-17.jpg
+  _posts/foodie_images/Frango_agridoce.png
 category: receita
 tags:
   - refeição
