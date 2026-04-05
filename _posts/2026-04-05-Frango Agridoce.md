@@ -6,9 +6,9 @@ subtitle: 'Para quem não se decide entre ácido e doce.'
 description: >-
   Para quem não se decide entre ácido e doce.
 image: >-
-  https://mymorningmocha.com/wp-content/uploads/2023/08/Sweet-And-Sour-Chicken-Recipe-500x500.jpg
+  https://3.bp.blogspot.com/-0OAUUp6Bj6A/T1Nx7b1t3ZI/AAAAAAAAFvc/jb7tHe03aPo/s1600/sweet+and+sour+chicken+recipe.JPG
 optimized_image: >-
-  https://mymorningmocha.com/wp-content/uploads/2023/08/Sweet-And-Sour-Chicken-Recipe-500x500.jpg
+  https://3.bp.blogspot.com/-0OAUUp6Bj6A/T1Nx7b1t3ZI/AAAAAAAAFvc/jb7tHe03aPo/s1600/sweet+and+sour+chicken+recipe.JPG
 category: receita
 tags:
   - refeição
