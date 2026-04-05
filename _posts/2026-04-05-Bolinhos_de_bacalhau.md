@@ -7,9 +7,9 @@ description: >-
     Tradicional. Servem de entrada ou até mesmo prato principal.
 
 image: >-
-  .png
+  https://tasteporto.com/wp-content/uploads/2020/05/Bolinho-de-bacalhau.jpg
 optimized_image: >-
-  .png
+  https://tasteporto.com/wp-content/uploads/2020/05/Bolinho-de-bacalhau.jpg
 category: receita
 tags:
   - molho

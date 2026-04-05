@@ -6,9 +6,9 @@ subtitle: 'Para começar qualquer refeição em grande.'
 description: >-
   Para começar qualquer refeição em grande.
 image: >-
-  .png
+  https://chefsandromartins.com/wp-content/uploads/2016/12/sopa-creme-de-brocolis.jpg
 optimized_image: >-
-  .png
+  https://chefsandromartins.com/wp-content/uploads/2016/12/sopa-creme-de-brocolis.jpg
 category: receita
 tags:
   - sopa
